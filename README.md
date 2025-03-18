@@ -1,7 +1,5 @@
 # JWT_Auth
 
-To create a small project with a backend using Node.js and Express.js, and a frontend using Next.js, React.js, and Tailwind CSS, while implementing basic JWT-based authentication, we can break the project into clear steps. Here's how I would approach it as a professional developer:
-
 ---
 
 ### **Project Structure**
